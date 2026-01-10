@@ -18,3 +18,4 @@ Here is a simple dashboard I made, it shows the GENDER PAY throughout the year.
 - i created slicers for both genders to make it easier for the board to see how many males and females 
 -  
  
+<img width="907" height="505" alt="Capture gender analysis" src="https://github.com/user-attachments/assets/03ec9ba1-6fbb-474d-ae46-3f38fc404ea3" />
