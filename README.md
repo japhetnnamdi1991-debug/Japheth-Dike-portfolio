@@ -55,5 +55,6 @@ This project analyzes Optimus-Elite Superstore sales data (2011–2014) using Po
 The dashboard provides actionable insights to support product strategy, customer targeting, and regional performance evaluation, enabling data-driven decision-making.
 
 <img width="877" height="493" alt="elite store capture" src="https://github.com/user-attachments/assets/a98c6ec1-c62a-428e-b175-d62fe5839a34" />
-<img width="896" height="502" alt="elite store 2Capture" src="https://github.com/user-attachments/assets/8079afef-69cd-43b9-8d01-b1366a2b5e21" />
 
+
+<img width="899" height="499" alt="Captureelite store" src="https://github.com/user-attachments/assets/65e891e3-30f8-4c95-b994-392aa3c74984" />
