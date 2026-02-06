@@ -58,3 +58,63 @@ The dashboard provides actionable insights to support product strategy, customer
 
 
 <img width="899" height="499" alt="Captureelite store" src="https://github.com/user-attachments/assets/65e891e3-30f8-4c95-b994-392aa3c74984" />
+
+
+
+📊 Sales Performance Dashboard (2019–2025)
+
+This interactive Sales Dashboard was developed to provide a comprehensive view of business performance across multiple dimensions, including revenue distribution, customer activity, product categories, and managerial contributions. The goal of this project is to transform raw sales data into actionable insights that support strategic decision-making.
+
+🔍 Project Overview
+
+The dashboard analyzes sales data between 2019 and 2025, helping stakeholders quickly identify trends, high-performing regions, key customers, and revenue drivers. With dynamic filters for financial year, chain, and order date, users can drill down into specific periods and operational segments for deeper analysis.
+
+💡 Key Insights
+
+1. Revenue by State
+New South Wales generated the highest revenue, significantly outperforming other states. This indicates a strong market presence and potential opportunities for expansion strategies in lower-performing regions.
+
+2. Product Category Contribution
+Womenswear leads with the largest share of revenue, followed closely by Shoes and Accessories. This highlights customer preference patterns and suggests where inventory and marketing efforts should be concentrated.
+
+3. Chain Contribution to Revenue
+Fashion Direct contributes slightly more revenue compared to Next Look, positioning it as the stronger-performing retail chain. Understanding the factors behind this performance can help replicate success across other branches.
+
+4. Customer Value Analysis
+Top customers placed a high number of orders and generated substantial revenue, reinforcing the importance of customer retention strategies. Loyal customers clearly play a critical role in sustaining business growth.
+
+5. Manager Performance
+The “Top 10 Managers” visualization showcases leadership impact on sales outcomes. Recognizing high-performing managers helps promote best practices across teams.
+
+6. Yearly Revenue Trend
+Revenue experienced strong growth from 2019 to 2021 before declining in 2022. This shift may reflect market changes, operational challenges, or external economic factors—signaling a need for proactive business adjustments.
+
+🛠️ Tools & Skills Demonstrated
+
+Data Cleaning and Transformation
+
+Data Visualization
+
+Business Intelligence Reporting
+
+Trend Analysis
+
+Performance Tracking
+
+Advanced Excel / Power BI-style dashboard design
+
+✅ Business Impact
+
+This dashboard enables decision-makers to:
+
+Monitor sales performance in real time
+
+Identify profitable products and regions
+
+Understand customer purchasing behavior
+
+Evaluate managerial effectiveness
+
+Detect revenue trends early for strategic planning
+
+<img width="1338" height="508" alt="Capture sales dashboard" src="https://github.com/user-attachments/assets/67d28f69-181c-4689-a435-390bdf0ed47a" />
